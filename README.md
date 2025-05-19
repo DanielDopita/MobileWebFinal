@@ -1,5 +1,5 @@
 Personal Finance Tracker App
-This is a mobile app built with React Native, Firebase, and Expo to help users manage their personal finances. It allows users to add, edit, delete, and view transactions in real time. All data is stored in Firebase Firestore and user authentication is handled with Firebase Auth.
+This mobile app is built with React Native, Firebase, and Expo to help users manage their finances. It allows users to add, edit, delete, and view transactions in real-time. All data is stored in Firebase Firestore and user authentication is handled with Firebase Auth.
 
 Features
 Firebase Authentication (email/password)
